@@ -11,8 +11,18 @@ const cards = [
 
     },
     {
+      front: 'Explain the for-in loop?',
+      back: 'The for-in loop is used to loop through the properties of an object.',
+      flipped: false
+    },
+    {
       front: 'What is the use of blur function?',
       back: 'Blur function is used to remove the focus from the specified object.',
+      flipped: false
+    },
+    {
+      front: 'How do you declare a three dimensional array?',
+      back: 'var myArray = [[[]]]',
       flipped: false
     },
     {
@@ -21,8 +31,18 @@ const cards = [
       flipped: false
     },
     {
+      front: 'Which company developed JavaScript?',
+      back: 'Netscape',
+      flipped: false
+    },
+    {
       front: 'Created satellite orbit analyzation software for NASA?',
       back: 'Dr. Evelyn Boyd Granville',
+      flipped: false
+    },
+    {
+      front: 'What is this keyword in JavaScript?',
+      back: 'This keyword refers to the object from where it was called.',
       flipped: false
     },
     {
