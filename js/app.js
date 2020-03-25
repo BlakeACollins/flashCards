@@ -91,13 +91,33 @@ const cards = [
       flipped:false
     },
     {
-      front: 'What is the data type of variables of in JavaScript?',
+      front: 'What is the data type of variables in JavaScript?',
       back: 'All variables in the JavaScript are object data types.',
       flipped: false
     },
     {
       front: 'What are the two basic groups of dataypes in JavaScript?',
       back: 'Primitive and Reference types',
+      flipped: false
+    },
+    {
+      front: 'Which symbol is used for comments in Javascript?',
+      back: '// for single line comments and /**/ for multi line comments',
+      flipped: false
+    },
+    {
+      front: ' Does JavaScript support automatic type conversion?',
+      back: 'Yes JavaScript does support automatic type conversion',
+      flipped: false
+    },
+    {
+      front: 'What is the function of delete operator?',
+      back: 'The delete keyword is used to delete the property as well as its value.',
+      flipped: false
+    },
+    {
+      front: 'What is an IIFE in JavaScript?',
+      back: 'IIFE (Immediately Invoked Function Expression)',
       flipped: false
     }
   ];
